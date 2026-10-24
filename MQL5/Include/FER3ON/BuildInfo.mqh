@@ -1,0 +1,10 @@
+#property strict
+
+#ifndef FER3ON_BUILD_INFO_MQH
+#define FER3ON_BUILD_INFO_MQH
+
+#define FER3ON_BUILD_ID        "FER3ON-MQL5-INIT-20261023"
+#define FER3ON_BUILD_VERSION   "0.1.0-phase0"
+#define FER3ON_BUILD_STATUS    "SCAFFOLD_ONLY_NO_TRADING"
+
+#endif
