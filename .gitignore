@@ -1,0 +1,6 @@
+*.ex5
+*.log
+MQL5/Files/*.jsonl
+MQL5/Files/*.csv
+__pycache__/
+.pytest_cache/
